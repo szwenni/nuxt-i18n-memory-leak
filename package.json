@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
-    "@nuxtjs/i18n": "npm:@nuxtjs/i18n-edge@8.0.0-rc.11-28385761.ac4496d",
+    "@nuxtjs/i18n": "npm:@nuxtjs/i18n-edge@latest",
     "nuxt": "^3.8.2",
     "vue": "^3.3.12",
     "vue-router": "^4.2.5"
